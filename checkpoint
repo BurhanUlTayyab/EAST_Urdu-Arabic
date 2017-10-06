@@ -1,0 +1,6 @@
+model_checkpoint_path: "/home/burhan/EAST/modelsemodel.ckpt-99991"
+all_model_checkpoint_paths: "/home/burhan/EAST/modelsemodel.ckpt-95951"
+all_model_checkpoint_paths: "/home/burhan/EAST/modelsemodel.ckpt-96961"
+all_model_checkpoint_paths: "/home/burhan/EAST/modelsemodel.ckpt-97971"
+all_model_checkpoint_paths: "/home/burhan/EAST/modelsemodel.ckpt-98981"
+all_model_checkpoint_paths: "/home/burhan/EAST/modelsemodel.ckpt-99991"
