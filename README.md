@@ -9,6 +9,7 @@ Use python read.py to use run the detector on your videos
 On Urdu Images
 
 [![output_4.png](https://user-images.githubusercontent.com/25680088/29600779-5f49bd1e-87f1-11e7-8686-a93e7c328be2.png)
+[![output_5.png](https://user-images.githubusercontent.com/25680088/29600771-514516c8-87f1-11e7-8cf1-8aae21de3cde.png)
 
 On Arabic Images
 
