@@ -13,5 +13,5 @@ On Urdu Images
 
 On Arabic Images
 
-[![image.png](https://user-images.githubusercontent.com/25680088/29600752-34ad690c-87f1-11e7-961e-31e8b322f2f4.png)
+![image.png](https://user-images.githubusercontent.com/25680088/29600752-34ad690c-87f1-11e7-961e-31e8b322f2f4.png)
 [![imagex.png](https://user-images.githubusercontent.com/25680088/29600746-2dbb6356-87f1-11e7-9dde-915d6d20040f.png)
